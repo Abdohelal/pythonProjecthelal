@@ -1,0 +1,3 @@
+Pip install requests
+Pip install beautifulsoup
+Pip install lxml
